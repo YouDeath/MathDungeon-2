@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"obj_map_p","path":"objects/obj_map_p/obj_map_p.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
