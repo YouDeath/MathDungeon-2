@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"obj_enemy_p","path":"objects/obj_enemy_p/obj_enemy_p.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
